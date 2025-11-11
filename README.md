@@ -1,9 +1,10 @@
-![boletin S-FI 3_Página_1](https://github.com/user-attachments/assets/7986c919-f65d-47fb-a078-b357fb9070d7)
-![boletin S-FI 3_Página_2](https://github.com/user-attachments/assets/e33ee14c-0b25-42db-9e5e-62c773c5d484)
-![boletin S-FI 3_Página_3](https://github.com/user-attachments/assets/3f1ef9d1-af33-4d43-84d8-8601ff2d7b51)
-![boletin S-FI 3_Página_4](https://github.com/user-attachments/assets/6ffec798-6d90-4bdc-8ddd-1f37d25c7b6c)
-![boletin S-FI 3_Página_5](https://github.com/user-attachments/assets/9b539d8a-1384-40b4-8720-35f5fb10b946)
-![boletin S-FI 3_Página_6](https://github.com/user-attachments/assets/cf3fe282-58e6-4268-8493-f6c4be08fde1)
+![boletin S-FI 3-1](https://github.com/user-attachments/assets/2dd67b88-238e-4799-ab66-1b15b5a5b344)
+![boletin S-FI 3-2](https://github.com/user-attachments/assets/cee08a6a-479a-434b-8c4c-c1d2b56de763)
+![boletin S-FI 3-3](https://github.com/user-attachments/assets/c79e2830-9fb3-47a8-99a5-3dfe1cc28247)
+![boletin S-FI 3-4](https://github.com/user-attachments/assets/b4fc9ced-7ba5-450a-9bd6-691b0f6264fa)
+![boletin S-FI 3-5](https://github.com/user-attachments/assets/577e8247-f6af-415b-aa34-fb611529f04d)
+![boletin S-FI 3-6](https://github.com/user-attachments/assets/32db1d58-a004-4b26-b33f-5f03b1e7fc18)
+
 
 
 
